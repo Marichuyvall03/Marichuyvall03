@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marichuyvall03
 - 👀 I’m interested in drawing, illustration, animals and nature.
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on projects that help the planet
+- 🌱 I’m currently learning programming.
+- 💞️ I’m looking to collaborate on projects that help the planet.
 - 📫 How to reach me in Gmail --> panditatohui03@gmail.com
 
 <!---
