@@ -1,0 +1,181 @@
+body{
+    margin: 40px;
+    padding: auto;
+    background-color: #fae8f5;
+    font-family: 'Agdasima', sans-serif;
+}
+/*Navegador*/
+.navbar {
+    padding: 1px;
+    background-color: #cea9d7;
+    border-radius: 500px;
+  }
+  
+  .navbar-collapse {
+    align-items: center;
+    justify-content: space-around;  
+  }
+img{
+    width: 500px;
+}
+.main title{
+    color: #5d003c;
+}
+.label{
+    text-align: center;
+}
+.title-web-text{
+    text-align: center;
+    font-family: fantasy;
+}
+.imagen-center{
+    height: 300px;
+    width: 950px;
+    border-radius: 100px;
+    justify-content:flex-start;
+}
+/*
+selector{
+    propiedad: valor
+}
+*/
+.espacio-definition{
+    justify-content: center;
+    text-align: center;
+    background-color: #d7a9c7;
+    border-radius: 50px;
+    padding: 20px 25px 20px 25px;
+}
+.carousel-item .container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-item{
+    height: 800px;
+    width: 900px;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+}
+.container-fluid{
+    padding: 15px 15px 15px 15px;
+}
+.logo-planeta{
+    height: 25%;
+    width: 25%;
+}
+.top-estrellas{
+    background-color: #5d003c;
+    color: beige;
+    height: 500px;
+    width: 500px;
+    padding: 45px;
+    text-decoration: wavy;
+    text-align: center;
+    border-radius: 35px;
+    vertical-align: middle;
+}
+.misiones-espaciales{
+    background-color: #5d1197;
+    color: beige;
+    height: 550px;
+    width: 500px;
+    padding: 45px;
+    text-decoration: wavy;
+    text-align: center;
+    border-radius: 35px;
+}
+.display-5{
+    text-align: center;
+}
+.float-start{
+    width: 350px;
+    height: 300px;
+    align-items: center;
+}
+.float-end{
+    width: 350px;
+    height: 300px;
+    align-items: center; 
+}
+.astro-section{
+    background-color: #dca4c8;
+    padding: 30px;
+    text-align: justify;
+    width: 950px;
+    height: 700px;
+    border-radius: 35px;
+}
+.origen-universo{
+    background-color: #f1c9ba;
+    padding: 30px;
+    text-align: justify;
+    width: 950px;
+    height: 700px;
+    border-radius: 35px;
+}
+.form-cuestionario{
+    background-color: #dcc8fb;
+    padding: 30px;
+    border-radius: 35px;
+    text-align: center;
+}
+.display-6{
+    text-align: center;
+}
+.display-7{
+    text-align: center;
+}
+.display-8{
+    background-color: #d7a9c7;
+    text-align: center;
+}
+.astro-stars{
+    background-color: #a4b5dc;
+    padding: 30px;
+    text-align: justify;
+    width: 950px;
+    height: 700px;
+    border-radius: 35px;
+}
+
+
+footer {
+    min-height: 500px;
+  }
+  
+  .footer-logo {
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+  }
+  
+  .footer-texto {
+    font-size: 1.5rem;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+  .iconos-redes-sociales a {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+    margin: 10px;
+    border: 2px solid white;
+    border-radius: 50%;
+    transition: all 0.2s ease-in;
+  }
+.seccion-oscura{
+   background-color: #5d003c; 
+   color: antiquewhite;
+   border-radius: 26px;
+}
+
